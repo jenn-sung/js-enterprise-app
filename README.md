@@ -5,6 +5,16 @@ JS Enterprise App Repository
 *Feel free to access [my portfoio](https://jenn-sung.github.io.)*
 
 > ## A Practice Enterprise Rails App 
-> Created with Rails framework
+> Created with Rails
 > 
->**Includes server side coding, database design, HTML, CSS, algorithm development, file manipulation, routing, API integraion, CSV uploading/downloading, etc**.
+Includes:
+* Server side coding
+* Database design
+* HTML 
+* CSS 
+* Algorithm development
+* File manipulation 
+* Routing
+* API integraion
+* CSV uploading/downloading
+
